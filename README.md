@@ -18,3 +18,8 @@ Definitions:
 ![photo_2023-02-28 23 13 00](https://user-images.githubusercontent.com/123377628/221928656-e2beb9bf-fc97-4c40-be3b-d05d1bbff176.jpeg)
 3. Add MinGW to the PATH environment variable: To use the MinGW compiler in Visual Studio Code, you will need to add it to the PATH environment variable. Right-click on the "Computer" or "This PC" icon on your desktop and select "Properties". This will open the System window. 
 4. Click on **"Advanced system settings"** on the left-hand side of the window. This will open the System Properties window. Click on the **"Environment Variables"** button at the bottom of the window. This will open the Environment Variables window.
+![photo_2023-02-28 23 12 59](https://user-images.githubusercontent.com/123377628/221929325-383aa685-13be-4842-ae80-f1dfdd32a0f9.jpeg)
+5. Under "System variables", scroll down and find the "Path" variable. Select it and click on "Edit". In the "Edit Environment Variable" window, click on "New" and type the path to the MinGW bin directory, using a semicolon to separate it from other paths in the list. For example, if MinGW is installed in the default directory, the path to the bin directory would be “C:\MinGW\bin”.
+![photo_2023-02-28 23 12 58](https://user-images.githubusercontent.com/123377628/221929440-cb26090f-cd61-4b95-b32d-28e9959ade12.jpeg)
+6. Click "OK" to close all the windows. Now your Visual Studio Code is ready to compile C++ code.
+### Let’s do a little check:
