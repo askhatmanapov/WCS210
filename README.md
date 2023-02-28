@@ -14,4 +14,7 @@ Definitions:
 ### Step by step guide:
 1. Install the C++ extension: Open Visual Studio Code and click on the "Extensions" icon on the left-hand side of the window. In the search bar, type "C++" and select the "C++" extension from the list. Click the "Install" button to install the extension.
 ![photo_2023-02-28 23 13 01](https://user-images.githubusercontent.com/123377628/221927244-ffb643dc-2e84-49c3-a8c1-3272b95f4e0d.jpeg)
-2. Install a C++ compiler: Visual Studio Code does not come with a built-in C++ compiler, so you will need to download and install one separately. One option is to download the MinGW compiler from this website. Follow the installation prompts to install the compiler on your computer.
+2. Install a C++ compiler: Visual Studio Code does not come with a built-in C++ compiler, so you will need to download and install one separately. One option is to download the MinGW compiler from this [website](https://sourceforge.net/projects/mingw/). Follow the installation prompts to install the compiler on your computer.
+![photo_2023-02-28 23 13 00](https://user-images.githubusercontent.com/123377628/221928656-e2beb9bf-fc97-4c40-be3b-d05d1bbff176.jpeg)
+3. Add MinGW to the PATH environment variable: To use the MinGW compiler in Visual Studio Code, you will need to add it to the PATH environment variable. Right-click on the "Computer" or "This PC" icon on your desktop and select "Properties". This will open the System window. 
+4. Click on "Advanced system settings" on the left-hand side of the window. This will open the System Properties window. Click on the "Environment Variables" button at the bottom of the window. This will open the Environment Variables window.
