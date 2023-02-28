@@ -23,3 +23,9 @@ Definitions:
 ![photo_2023-02-28 23 12 58](https://user-images.githubusercontent.com/123377628/221929440-cb26090f-cd61-4b95-b32d-28e9959ade12.jpeg)
 6. Click "OK" to close all the windows. Now your Visual Studio Code is ready to compile C++ code.
 ### Let’s do a little check:
+Configure Visual Studio Code: Open Visual Studio Code and create a new folder where you will store your C++ projects. Then, create a new file in the folder with a .cpp file extension (for example, hello.cpp). In the top menu bar, click on "Terminal" and select "New Terminal" to open a new terminal window in Visual Studio Code.
+![photo_2023-02-28 23 12 57](https://user-images.githubusercontent.com/123377628/221929726-9457ea77-1a19-4a3d-bb7f-8507daeafd5d.jpeg)
+Compile and run your C++ code: In the terminal window, navigate to the folder where you saved your .cpp file using the cd command. Then, use the g++ command to compile your code (for example, “g++ hello.cpp -o output”). Once the compilation is complete, you can run the compiled program by typing “./output” in the terminal window.
+![photo_2023-02-28 23 26 22](https://user-images.githubusercontent.com/123377628/221930445-4a4d6dc2-8b38-4d62-9edb-b88b8750c442.jpeg)
+
+### Troubleshooting:
