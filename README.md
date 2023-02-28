@@ -13,4 +13,4 @@ Definitions:
 2. Compiler: a computer program that translates source code written in a high-level programming language into machine code that can be executed by a computer.
 ### Step by step guide:
 1. Install the C++ extension: Open Visual Studio Code and click on the "Extensions" icon on the left-hand side of the window. In the search bar, type "C++" and select the "C++" extension from the list. Click the "Install" button to install the extension.
-![photo_2023-02-28 23 13 01](https://user-images.githubusercontent.com/123377628/221927244-ffb643dc-2e84-49c3-a8c1-3272b95f4e0d.jpeg | width=100)
+![photo_2023-02-28 23 13 01](https://user-images.githubusercontent.com/123377628/221927244-ffb643dc-2e84-49c3-a8c1-3272b95f4e0d.jpeg)
